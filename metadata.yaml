@@ -1,5 +1,8 @@
 _repo: The-Path-to-Rome_7373
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Belloc, Hilaire
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2437
     wikipedia: http://en.wikipedia.org/wiki/Hilaire_Belloc
 description: Traveling sketches of a journey from Toul to Rome.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7373#The-Path-to-Rome
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
